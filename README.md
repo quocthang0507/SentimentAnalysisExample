@@ -1,4 +1,4 @@
-# SentimentAnalysisExample
+# SentimentAnalysisWithML.NET
 
 The dataset and many parts in this readme.md are based on [https://github.com/dotnet/machinelearning-samples/blob/master/samples/csharp/getting-started/BinaryClassification_SentimentAnalysis](https://github.com/dotnet/machinelearning-samples/blob/master/samples/csharp/getting-started/BinaryClassification_SentimentAnalysis)
 
