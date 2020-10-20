@@ -35,7 +35,7 @@ This problem is centered around predicting if a customer's review has positive o
 |Total experiment time : 477.5336684 Secs                                                                        |
 |Total number of models explored: 8                                                                              |
 
-                                              Top 5 models explored                                             
+### Top 5 models explored 
 
 | Trainer | MicroAccuracy | MacroAccuracy | Duration | #Iteration |
 | --- | --- | --- | --- | --- |
@@ -45,4 +45,4 @@ This problem is centered around predicting if a customer's review has positive o
 |4 | LightGbmMulti | 0.9494 | 0.8036 | 89.3 | 4 |
 |5 | SgdCalibratedOva | 0.9494 | 0.7871 | 31.9 | 5 |
 
-![Result](img/Capture-1.png)
+![Result](img/capture-1.png)
