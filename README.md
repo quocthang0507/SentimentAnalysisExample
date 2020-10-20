@@ -35,9 +35,10 @@ This problem is centered around predicting if a customer's review has positive o
 |Total experiment time : 477.5336684 Secs                                                                        |
 |Total number of models explored: 8                                                                              |
 
-|                                              Top 5 models explored                                             |
-|----------------------------------------------------------------------------------------------------------------|
+                                              Top 5 models explored                                             
+
 | Trainer | MicroAccuracy | MacroAccuracy | Duration | #Iteration |
+| --- | --- | --- | --- | --- |
 |1 | SdcaMaximumEntropyMulti | 0.9540 | 0.8082 | 27.0 | 1 |
 |2 | LbfgsLogisticRegressionOva | 0.9535 | 0.8183 | 65.4 | 2 |
 |3 | LinearSvmOva | 0.9511 | 0.8241 | 24.3 | 3 |
