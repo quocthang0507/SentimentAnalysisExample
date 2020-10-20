@@ -45,4 +45,5 @@ This problem is centered around predicting if a customer's review has positive o
 |4 | LightGbmMulti | 0.9494 | 0.8036 | 89.3 | 4 |
 |5 | SgdCalibratedOva | 0.9494 | 0.7871 | 31.9 | 5 |
 
-![Result](img/capture-1.png)
+![](img/capture-1.png)
+
