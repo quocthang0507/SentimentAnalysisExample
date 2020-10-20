@@ -14,8 +14,8 @@ This problem is centered around predicting if a customer's review has positive o
 
 ## Result
 
-| Trainer | MicroAccuracy | MacroAccuracy | Duration | #Iteration |
-| --- | --- | --- | --- | --- |
+| # | Trainer | MicroAccuracy | MacroAccuracy | Duration | #Iteration |
+| --- | --- | --- | --- | --- | --- |
 |1 | AveragedPerceptronOva | 0.9486 | 0.8052| 29.7 | 1 |
 |2 | SdcaMaximumEntropyMulti | 0.9540 | 0.8082 | 27.0| 2 |
 |3 | LightGbmMulti | 0.9494 | 0.8036 | 89.3 | 3 |
@@ -37,8 +37,8 @@ This problem is centered around predicting if a customer's review has positive o
 
 ### Top 5 models explored 
 
-| Trainer | MicroAccuracy | MacroAccuracy | Duration | #Iteration |
-| --- | --- | --- | --- | --- |
+| # | Trainer | MicroAccuracy | MacroAccuracy | Duration | #Iteration |
+| --- | --- | --- | --- | --- | --- |
 |1 | SdcaMaximumEntropyMulti | 0.9540 | 0.8082 | 27.0 | 1 |
 |2 | LbfgsLogisticRegressionOva | 0.9535 | 0.8183 | 65.4 | 2 |
 |3 | LinearSvmOva | 0.9511 | 0.8241 | 24.3 | 3 |
