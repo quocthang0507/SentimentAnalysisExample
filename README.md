@@ -4,7 +4,7 @@ The dataset and many parts in this readme.md are based on [https://github.com/do
 
 | ML.NET version | API type | Status| App Type | Data type | Scenario | ML Task | Algorithms |
 |----------------|-------------------|-------------------------------|-------------|-----------|---------------------|---------------------------|-----------------------------|
-| v1.4|   | Dynamic API | up-to-date | Console app | .txt file based on .tsv file | Sentiment Analysis | Two-class  classification | Linear Classification |
+| v1.5.0 | Dynamic API | up-to-date | Console app | .txt file based on .tsv file | Sentiment Analysis | Two-class  classification | Linear Classification |
 
 ## Problem
 
